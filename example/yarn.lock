@@ -4534,10 +4534,10 @@ react-native-screens@^3.4.0, react-native-screens@^3.8.0:
   dependencies:
     warn-once "^0.1.0"
 
-react-native-static-safe-area-insets@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/react-native-static-safe-area-insets/-/react-native-static-safe-area-insets-2.1.1.tgz#394a3510c7029288895bbaccf1dadf4fa46c4b88"
-  integrity sha512-NUSRNZp+0IJOuLeoHoU4kw/cY9g7ozUo2ApCbJAiPyYbkbv49S8gdAcZRkeR0nqwzFDA07sCZCbPI03iEV0RTQ==
+react-native-static-safe-area-insets@^2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/react-native-static-safe-area-insets/-/react-native-static-safe-area-insets-2.1.2.tgz#4a45cc47c62a8a1eac4ac2783c2ecc34e56dc3c1"
+  integrity sha512-cFbpK1tbxx9qwzu7C80JSkbIpDxLXuOyqozigShh8nGr6fxruBm9AwLBd0597Hv6NRAC04UPB2NVUrWL6Mkfmw==
 
 react-native-vector-icons@^8.1.0:
   version "8.1.0"
